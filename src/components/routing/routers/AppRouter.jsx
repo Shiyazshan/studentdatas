@@ -1,8 +1,8 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
-import CreateModal from '../modal/CreateModal'
-import UpdateModal from '../modal/UpdateModal'
-import LandingPage from '../screens/LandingPage'
+import CreateModal from '../../modal/CreateModal'
+import UpdateModal from '../../modal/UpdateModal'
+import LandingPage from '../../screens/LandingPage'
 
 function AppRouter() {
     return (
